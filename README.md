@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+### XNet
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### XNet is a mod which adds a single type of cable: a networking cable. Using networking cables you can instantly transport items, fluids, energy, and information. The main focus of this mod is efficiency and flexibility. Efficiency in that it is possible to make huge cable networks (tested with two chests separated by a cable of 12000 blocks long) with no lag. The cables themselves are not even tile entities. Flexibility in that the controller allows for really flexible configuration for distributing information.
